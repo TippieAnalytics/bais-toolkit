@@ -13,11 +13,11 @@ Backup and resources for [BAIS Toolkit] (https://tippie.uiowa.edu/bais-toolkit)
 - [ ] Update Advanced Database and Big Data (elective)
 - [ ] Update Optimization and Simulation Modeling (elective)
 - [ ] Update Cloud Computing (elective)
-- [ ] Update Accounting Information Systems
-- [ ] Update Information Visualization
-- [ ] Update Business Process Automation
-- [ ] Update Digital Project Management
-- [ ] Update Cyber Security
+- [ ] Update Accounting Information Systems (elective)
+- [ ] Update Information Visualization (elective)
+- [ ] Update Business Process Automation (elective)
+- [ ] Update Digital Project Management (elective)
+- [ ] Update Cyber Security (elective)
 
 ---
 
