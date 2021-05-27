@@ -10,8 +10,8 @@ Backup and resources for [BAIS Toolkit] (https://tippie.uiowa.edu/bais-toolkit)
 ## To Do
 
 - [ ] Update Pro-Prep with Kris's feedback (core)
-- [ ] Update Advanced Database and Big Data (elective)
-- [ ] Update Optimization and Simulation Modeling (elective)
+- [x] Update Advanced Database and Big Data (elective)
+- [x] Update Optimization and Simulation Modeling (elective)
 - [ ] Update Cloud Computing (elective)
 - [ ] Update Accounting Information Systems (elective)
 - [ ] Update Information Visualization (elective)
